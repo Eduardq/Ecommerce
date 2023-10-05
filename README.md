@@ -2,18 +2,16 @@
  
 An Ecommerce website built with react,firebase and stripe.
 
-![Screenshot (384)](https://github.com/Eduardq/Ecommerce/assets/104719717/6b280a9a-b919-4638-bc4e-c4bb4e17c022)
-
-![Screenshot (383)](https://github.com/Eduardq/Ecommerce/assets/104719717/9ac0431c-2f4c-4f05-b30a-7a3ff9688cb4)
-
-![Screenshot (386)](https://github.com/Eduardq/Ecommerce/assets/104719717/c3456d65-f736-4899-bb56-b04b521bc602)
-
-![Screenshot (385)](https://github.com/Eduardq/Ecommerce/assets/104719717/7360e95d-e8ab-4830-99e1-817e59b56693)
+![Screenshot (384)](https://github.com/Eduardq/Ecommerce/assets/104719717/a5a9a530-007c-4764-8c0a-ce127d5c13d2)
 
 
+![Screenshot (385)](https://github.com/Eduardq/Ecommerce/assets/104719717/55745b7c-314c-49cd-8356-9dcc93da7ea3)
+
+
+![Screenshot (386)](https://github.com/Eduardq/Ecommerce/assets/104719717/0cee6ddc-e485-4005-8189-cf90264667ff)
 
 
 
 
-
+![Screenshot (383)](https://github.com/Eduardq/Ecommerce/assets/104719717/7d0595fd-7baa-46b4-82f1-43ab0f0813a2)
 
